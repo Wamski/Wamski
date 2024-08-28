@@ -1,5 +1,12 @@
 ## Hi there 👋
+I'm Wamski and this is my profile
+- 🎓I'm majoring in Computer Science
 
+Some Projects I'm working on are
+- TinyKartz
+  - TinyKartz originally was a project I started in Highschool with a group of two others. The game ran using Unity and C#. Since then I've gained more knowledge of C# and have decided to complerely rewrite the game. 
+- Un-named 2D platformer
+  - The goal of this game is to complete a level within 26 seconds by mastering jumps and special abilities.
 <!--
 **Wamski/Wamski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
