@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Wamski and this is my profile
+I'm Jon Wasky and this is my profile
 - 🎓I'm majoring in Computer Science
 
 Some Projects I'm working on are
