@@ -5,8 +5,9 @@ I'm Jon Wasky and this is my profile
 Some Projects I'm working on are
 - 🏎️ TinyKartz
   - TinyKartz originally was a project I started in Highschool with a group of two others. The game ran using Unity and C#. Since then I've gained more knowledge of C# and have decided to completely rewrite the game. 
-- 🕹️ Un-named 2D platformer
-  - The goal of this game is to complete a level within 26 seconds by mastering jumps and special abilities.
+- 🕹️ Un-named Action Adventure Game
+  - I haven't fully fleshed out all of the details to this game just that the art style is going to be similar to The Legend of Zelda: Wind Waker.
+  - I've created a few models for the game, and started working on animations. It has a working player locomotion controller.
 <!--
 **Wamski/Wamski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
