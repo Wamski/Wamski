@@ -1,24 +1,21 @@
-## Hi there 👋
-I'm Jon Wasky and this is my profile
-- 🎓I'm majoring in Computer Science
+# Hi there 👋
+I'm Jon Wasky and this is my profile. I am majoring in Computer Science and I am expected to graduate in Spring of 2026.
 
-Some Projects I'm working on are
-- 🏎️ TinyKartz
-  - TinyKartz originally was a project I started in Highschool with a group of two others. The game ran using Unity and C#. Since then I've gained more knowledge of C#, I have decided to completely rewrite the game. 
-- 🕹️ Un-named Action Adventure Game
-  - I haven't fully fleshed out all of the details to this game just that the art style is going to be similar to The Legend of Zelda: Wind Waker.
-  - I've created a few models for the game, and started working on animations. It has a working player locomotion controller.
-<!--
-**Wamski/Wamski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+### 🏎️ Tiny Karts
+Tiny Karts is a small time trial racing game similar to Mario Kart that me and a group of two others developed in High School as a final Project. This project introduced me to programming in C# and Unity 3D and inspired me to pursue this field. Tiny Karts had a strict deadline of two months and was to be presented at Sinclair College's Tech Prep Showcase.
 
-Here are some ideas to get you started:
+### 🌙 Moonlit (In Progress)
+Moonlit is a small scoped game that I have been working on over winter break and during my free time. Moonlit as of 01/09/25 is currently a souls-like boss room with the graphics and stylization taking inspiration from The Legend of Zelda: The Wind Waker.
+Working:
+ - Player:
+    - Locomotion Script
+    - Animation Handler
+    - Player Stats Script (Health, Stamina)
+    - Enemy Targeting (WIP)
+      - Can Target 1 Enemy but needs to be able to switch between multiple.
+  - Boss:
+    - NavMeshAI
+      - Locomotion (Patroling, Chasing, Attacking)
+      - Animation Handling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
