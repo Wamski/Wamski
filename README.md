@@ -34,7 +34,7 @@ Functioning:
 - Boss:
   - Locomotion
   - Animation Manager  
-Fixes:
+- Fixes:
   - Enemy Targeting now allows the player to be able to switch between 2 or more enemies. (01/26/25)  
 
 ---
