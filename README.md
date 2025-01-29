@@ -1,22 +1,46 @@
-# Hi there 👋
-I'm Jon Wasky and this is my profile. I am majoring in Computer Science and I am expected to graduate in Spring of 2026.
+# Wamski  
+Hi there 👋  
+My Name is Jon Wasky and I am majoring in Computer Science at Wright State University. I am passionate about learning new languages and tools to better develop a solution.  
+
+---
+### Languages and Tools  
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="JetBrains IDEs" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
+<img align="left" alt="VScode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Ubuntu" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />  
+<br />
+
+---
 
 ## Projects
-### 🏎️ Tiny Karts
-Tiny Karts is a small time trial racing game similar to Mario Kart that me and a group of two others developed in High School as a final Project. This project introduced me to programming in C# and Unity 3D and inspired me to pursue this field. Tiny Karts had a strict deadline of two months and was to be presented at Sinclair College's Tech Prep Showcase.
+<img align="right" alt="Moonlit" width=300 src="/Images/Moonlit.png">
 
-### 🌙 Moonlit (In Progress)
-Moonlit is a small scoped game that I have been working on over winter break and during my free time. Moonlit as of 01/09/25 is currently a souls-like boss room with the graphics and stylization taking inspiration from The Legend of Zelda: The Wind Waker.  
+### Moonlit (2024-Current)  
+Moonlit is a small scoped souls-like game that takes inspiration from the Legend of Zelda: The Wind Waker.  
+Functioning:
+- Player:
+  - Locomotion
+  - Animation Manager
+  - Stats Script (Health, and stamina)
+  - Enemy Targeting
+- Boss:
+  - Locomotion
+  - Animation Manager  
+Fixes:
+  - Enemy Targeting now allows the player to be able to switch between 2 or more enemies. (01/26/25)  
 
-Working:
- - Player:
-    - Locomotion Script
-    - Animation Handler
-    - Player Stats Script (Health, Stamina)
-    - Enemy Targeting (WIP)
-      - Can Target 1 Enemy but needs to be able to switch between multiple.
-  - Boss:
-    - NavMeshAI
-      - Locomotion (Patroling, Chasing, Attacking)
-      - Animation Handling
+---
 
+<img align="right" alt="TinyKarts" width=300 src="/Images/TinyKarts.png">
+
+### TinyKarts (2022)
+TinyKarts is a small time-trial racing game that was developed for Sinclair College's Tech Prep Showcase. Me and 2 other group members developed this game and got it functioning in the span of 2 months.  
+How it works:  
+- The main controller of the player is an invisible ball. The kart's graphical component's position is then set on top of the ball with each frame.
