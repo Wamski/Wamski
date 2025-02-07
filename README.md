@@ -27,7 +27,7 @@ My name is Jon Wasky, and I am majoring in Computer Science at Wright State Univ
 ---
 
 ## Projects
-<img align="right" alt="Moonlit" width=30% src="/Images/Moonlit.png">
+<img align="right" alt="Moonlit" width=30% src="/Images/Moonlit2.png">
 
 ### Moonlit (2024-Current)
 Moonlit is a small scoped souls-like game that takes inspiration from the Legend of Zelda: The Wind Waker.  
@@ -40,8 +40,10 @@ Functioning:
 - Boss:
   - Locomotion
   - Animation Manager
-- Fixes:
-  - Enemy Targeting now allows the player to be able to switch between 2 or more enemies. (01/26/25)
+- Update Log:
+  - (02/06/25) New Boss Arena: A floating island in a foggy green environment.
+  - (01/26/25) Enemy Targeting now allows the player to be able to switch between 2 or more enemies. 
+  
 
 ---
 
