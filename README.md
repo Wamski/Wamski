@@ -27,7 +27,7 @@ My name is Jon Wasky, and I am majoring in Computer Science at Wright State Univ
 ---
 
 ## Projects
-<img align="right" alt="Moonlit" width=30% src="/Images/Moonlit2.png">
+<img align="right" alt="Moonlit" width=30% src="/Images/Moonlit3.gif">
 
 ### Moonlit (2024-Current)
 Moonlit is a small scoped souls-like game that takes inspiration from the Legend of Zelda: The Wind Waker.  
