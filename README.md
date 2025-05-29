@@ -27,23 +27,20 @@ My name is Jon Wasky, and I am majoring in Computer Science at Wright State Univ
 ---
 
 ## Projects
-<img align="right" alt="Moonlit" width=30% src="/Images/Moonlit3.gif">
+<img align="right" alt="Moonlit" width=30% src="/Images/Moonlit.png">
 
-### Moonlit (2024-Current)
-Moonlit is a small scoped souls-like game that takes inspiration from the Legend of Zelda: The Wind Waker.  
-Functioning:
-- Player:
-  - Locomotion
-  - Animation Manager
-  - Stats Script (Health, and stamina)
-  - Enemy Targeting
-- Boss:
-  - Locomotion
-  - Animation Manager
-- Update Log:
-  - (02/06/25) New Boss Arena: A floating island in a foggy green environment.
-  - (01/26/25) Enemy Targeting now allows the player to be able to switch between 2 or more enemies. 
-  
+### Moonlit (2025-Current)
+Moonlit is a small scoped RPG/Puzzle game that takes insipration from games like: The Legend of Zelda: The Wind Waker, and Star Wars: Jedi Survivor.
+
+- Goals and Game Loop:
+  - The player needs to recover these light directing prisms to restore light to an island. To do this the player will encounter obstacles 
+like skeletons and puzzles. The player will progress by restoring the light in several islands gaining knowledge behind the main enemy. Eventually
+ending in a final boss battle.
+- Completed Systems:
+  - Basic Player Movement
+  - Item pickup and placement
+  - Player health and Damage systems
+  - Saving the players position and health
 
 ---
 
