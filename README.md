@@ -8,6 +8,7 @@ My name is Jon Wasky, and I am majoring in Computer Science at Wright State Univ
   <img alt="Java" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C#" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img alt="JavaScript" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="React" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Python" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="C++" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Git" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -20,6 +21,7 @@ My name is Jon Wasky, and I am majoring in Computer Science at Wright State Univ
   <img alt="AWS" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img alt="Ubuntu" width="38" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   <img alt="MacOS" width="38" stlye="padding-right:10px;" src="https://www.svgrepo.com/show/349361/finder.svg" />
+
 </p>
 
 <br/>
@@ -27,7 +29,7 @@ My name is Jon Wasky, and I am majoring in Computer Science at Wright State Univ
 ---
 
 ## Projects
-<img align="right" alt="Moonlit" width=30% src="/Images/Moonlit.png">
+<img align="right" alt="Moonlit" width=30% src="/Images/Moonlit_Concept3.gif">
 
 ### Moonlit (2025-Current)
 Moonlit is a small scoped RPG/Puzzle game that takes insipration from games like: The Legend of Zelda: The Wind Waker, and Star Wars: Jedi Survivor.
@@ -41,6 +43,9 @@ ending in a final boss battle.
   - Item pickup and placement
   - Player health and Damage systems
   - Saving the players position and health
+  - Switching levels
+  - Enemy spawning
+  - Enemy item drops
 
 ---
 
