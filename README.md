@@ -29,9 +29,32 @@ My name is Jon Wasky, and I am majoring in Computer Science at Wright State Univ
 ---
 
 ## Projects
+
+<img align="right" alt="Degree-Admin" width=30% src="/Images/degree-admin.png">
+
+### Degree-Admin
+Degree Admin is a group project that me and a team of 3 others are creating for CEG-4410 *Intro to Software Engineering*. We are creating a class scheduling app using Wright State data.
+- Goals:
+  - We plan on having 3 different user types: student, faculty, and admin
+    - **Students** can choose the amount of credit hours, majors, and minors they would like to take. They can also request a co-op to be fitted in their schedule.
+    - **Faculty** can approve co-ops and can reset student passwords.
+    - **Admins** can create all account types giving them a username and a password.
+
+Based on what the students select, the application will generate an optimal schedule for them.
+
+Tech stack:  
+[![Made with Unity](https://img.shields.io/badge/React-555555.svg?style=for-the-badge&logo=react)](https://unity3d.com)
+[![Made with Unity](https://img.shields.io/badge/Fast-API-009688.svg?style=for-the-badge&logo=fastapi)](https://unity3d.com)
+[![Made with Unity](https://img.shields.io/badge/Postgre-SQL-4169E1.svg?style=for-the-badge&logo=postgresql)](https://unity3d.com)
+
+<br/>
+
+---
+
 <img align="right" alt="Moonlit" width=30% src="/Images/Moonlit_Concept3.gif">
 
-### Moonlit (2025-Current)
+### Moonlit (2025-2025)
+[![Made with Unity](https://img.shields.io/badge/made_with-Unity-FFFFFF.svg?style=for-the-badge&logo=unity)](https://unity3d.com)  
 Moonlit is a small scoped RPG/Puzzle game that takes insipration from games like: The Legend of Zelda: The Wind Waker, and Star Wars: Jedi Survivor.
 
 - Goals and Game Loop:
@@ -52,6 +75,7 @@ ending in a final boss battle.
 <img align="right" alt="TinyKarts" width=30% src="/Images/TinyKarts.png">
 
 ### TinyKarts (2022)
+[![Made with Unity](https://img.shields.io/badge/made_with-Unity-FFFFFF.svg?style=for-the-badge&logo=unity)](https://unity3d.com)  
 TinyKarts is a small time-trial racing game that was developed for Sinclair College's Tech Prep Showcase. Me and 2 other group members developed this game and got it functioning in the span of 2 months.  
 How it works:
 - The main controller of the player is an invisible ball. The kart's graphical component's position is then set on top of the ball with each frame.
