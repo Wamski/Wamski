@@ -42,10 +42,11 @@ Degree Admin is a group project that me and a team of 3 others are creating for 
 
 Based on what the students select, the application will generate an optimal schedule for them.
 
+
 Tech stack:  
-[![Made with Unity](https://img.shields.io/badge/React-555555.svg?style=for-the-badge&logo=react)](https://unity3d.com)
-[![Made with Unity](https://img.shields.io/badge/Fast-API-009688.svg?style=for-the-badge&logo=fastapi)](https://unity3d.com)
-[![Made with Unity](https://img.shields.io/badge/Postgre-SQL-4169E1.svg?style=for-the-badge&logo=postgresql)](https://unity3d.com)
+[![React](https://img.shields.io/badge/React-555555.svg?style=for-the-badge&logo=react)](https://react.dev)
+[![FAST-API](https://img.shields.io/badge/Fast-API-009688.svg?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/Postgre-SQL-4169E1.svg?style=for-the-badge&logo=postgresql)](https://www.postgresql.org)
 
 <br/>
 
