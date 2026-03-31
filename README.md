@@ -33,7 +33,7 @@ My name is $${\color{lightgreen}Jon \space Wasky}$$, and I am majoring in Comput
 ---
 ## Projects
 
-<img align="right" alt="MAKOS" width=35% src="/Images/MAKOS.png">
+<img align="right" alt="MAKOS" width=45% src="/Images/MAKOS.png">
 
 ### $${\color{lightgreen}MAKOS}$$
 
@@ -51,7 +51,7 @@ Typescript frontend for a fluid UI and a Rust backend for safety and performance
 
 ---
 
-<img align="right" alt="Packed" width=35% src="/Images/Packed.png">
+<img align="right" alt="Packed" width=45% src="/Images/Packed.png">
 
 ### $${\color{lightgreen}PACKED}$$
 
@@ -72,7 +72,7 @@ health regardless of each machine's OS.
 
 ---
 
-<img align="right" alt="TZ-Bot" width=35% src="/Images/TZ-Bot.png">
+<img align="right" alt="TZ-Bot" width=45% src="/Images/TZ-Bot.png">
 
 ### $${\color{lightgreen}Timezone \space Bot}$$
 
