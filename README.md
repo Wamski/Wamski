@@ -42,8 +42,6 @@ My name is $${\color{lightgreen}Jon \space Wasky}$$, and I am majoring in Comput
 **MAKOS** is a full-stack, distributed messaging and VOIP platform designed for complete user sovereignty. Leveraging a React and
 Typescript frontend for a fluid UI and a Rust backend for safety and performance.
 
-<br><br><br>
-
 [![Rust](https://img.shields.io/badge/Rust-555555.svg?style=for-the-badge&logo=rust)]()
 [![TS](https://img.shields.io/badge/Typescript-555555.svg?style=for-the-badge&logo=typescript)]()
 [![React](https://img.shields.io/badge/React-555555.svg?style=for-the-badge&logo=react)]()
@@ -61,7 +59,7 @@ Typescript frontend for a fluid UI and a Rust backend for safety and performance
 multiple machines into a single, unified dashboard. Packed provides a high-level overview of your entire infrastructure's 
 health regardless of each machine's OS.
 
-<br><br><br>
+<br>
 
 [![Rust](https://img.shields.io/badge/Rust-555555.svg?style=for-the-badge&logo=rust)]()
 [![TS](https://img.shields.io/badge/Typescript-555555.svg?style=for-the-badge&logo=typescript)]()
@@ -80,7 +78,6 @@ health regardless of each machine's OS.
 
 **Timzone Bot** automates the conversion of natural language time references into universal formats. Utilizing a user-defined 
 timezone database, it processes incoming messages and generates dynamic Discord timestamps.
-<br><br><br>
 
 [![Python](https://img.shields.io/badge/Python-555555.svg?style=for-the-badge&logo=python)]()
 
